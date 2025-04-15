@@ -1,0 +1,28 @@
+2025-04-15 03:37:07,193 - INFO - Starting job scraping...
+2025-04-15 03:37:08,332 - WARNING - No job listings found.
+2025-04-15 03:39:30,720 - INFO - Starting job scraping...
+2025-04-15 03:39:31,767 - WARNING - No job listings found.
+2025-04-15 03:41:08,781 - INFO - Starting job scraping...
+2025-04-15 03:41:09,909 - WARNING - No job listings found.
+2025-04-15 03:45:47,304 - INFO - Launching browser...
+2025-04-15 03:45:47,305 - ERROR - Error scraping jobs: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-04-15 03:47:17,175 - INFO - Starting job scraping...
+2025-04-15 03:47:18,373 - WARNING - Skipping a job due to error: 'NoneType' object has no attribute 'text'
+2025-04-15 03:47:18,374 - WARNING - Skipping a job due to error: 'NoneType' object has no attribute 'text'
+2025-04-15 03:47:18,380 - WARNING - Skipping a job due to error: 'NoneType' object has no attribute 'text'
+2025-04-15 03:47:19,024 - INFO - Scraping finished. Data saved to both CSV and Excel.
+2025-04-15 04:01:07,079 - INFO - Starting job scraping...
+2025-04-15 04:01:07,967 - WARNING - Skipping a job due to error: 'NoneType' object has no attribute 'text'
+2025-04-15 04:01:07,968 - WARNING - Skipping a job due to error: 'NoneType' object has no attribute 'text'
+2025-04-15 04:01:07,972 - WARNING - Skipping a job due to error: 'NoneType' object has no attribute 'text'
+2025-04-15 04:01:08,540 - INFO - Scraping finished. Data saved to both CSV and Excel.
+2025-04-15 04:01:58,699 - INFO - Starting job scraping...
+2025-04-15 04:01:59,574 - WARNING - Skipping a job due to error: 'NoneType' object has no attribute 'text'
+2025-04-15 04:01:59,574 - WARNING - Skipping a job due to error: 'NoneType' object has no attribute 'text'
+2025-04-15 04:01:59,579 - WARNING - Skipping a job due to error: 'NoneType' object has no attribute 'text'
+2025-04-15 04:01:59,906 - INFO - Scraping finished. Data saved to both CSV and Excel.
+2025-04-15 04:17:11,120 - INFO - Starting job scraping...
+2025-04-15 04:17:12,956 - ERROR - Error during scraping: [Errno 13] Permission denied: 'scraped_data.xlsx'
+2025-04-15 04:29:10,066 - INFO - Scraping completed successfully.
+2025-04-15 04:32:12,302 - INFO - Scraping completed successfully.
